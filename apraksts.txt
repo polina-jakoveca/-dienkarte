@@ -1,0 +1,13 @@
+Vārds : Poļina
+Uzvārds: Jakoveca
+Klasse: 12.a
+Aplikacijas apraksts:
+Projekts ir tīmekļa lietojumprogramma restorānu ēdienkartes attēlošanai. 
+Lietotāji var apskatīt restorānā piedāvāto ēdienu sarakstu, 
+kā arī uzzināt katra ēdiena aprakstus un cenas. 
+Ēdienu pievienošanai un modificēšanai izvēlnē ir pieejams Front-end interfeiss, 
+kurā lietotāji var pievienot ēdiena nosaukumu, aprakstu un cenu. 
+Projekts datu glabāšanai izmanto JSON failu. 
+Šis projekts var būt noderīgs restorānu īpašniekiem, 
+kuri vēlas izveidot vienkāršu tiešsaistes ēdienkarti saviem klientiem, 
+vai izstrādātājiem, kuri meklē vienkāršas lietojumprogrammas piemēru.
