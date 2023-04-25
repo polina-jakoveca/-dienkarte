@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Меню ресторана</title>
+</head>
+<body>
+  <h1>Меню ресторана</h1>
+  <form>
+    <label for="name">Название блюда:</label>
+    <input type="text" id="name" name="name"><br>
+
+    <label for="description">Описание блюда:</label>
+    <textarea id="description" name="description"></textarea><br>
+
+    <label for="price">Цена:</label>
+    <input type="number" id="price" name="price"><br>
+
+    <button type="submit" id="submit">Добавить</button>
+  </form>
+
+  <ul id="menu"></ul>
+
+  <script src="app.js"></script>
+</body>
+</html>
